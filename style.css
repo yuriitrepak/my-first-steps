@@ -1,0 +1,33 @@
+.gallery td {
+	width: 30%;
+	border: 2px solid;
+	border-color: red;
+	padding: 5px;
+}
+.gallery th {
+	border: 2px solid;
+	border-color: red;
+}
+
+.gallery td img {
+	width: 100%;
+}
+
+.video {
+	color: red;
+	font-size: 50px;
+	}
+.video-container {
+	
+	margin-right: 100px;
+}
+.gallery {
+	border: 2px solid blue;
+	padding: 10px;
+	border-collapse: collapse;
+}
+.tablcaption {
+	caption-side: top;
+	text-align: left;
+
+}
